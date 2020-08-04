@@ -1,0 +1,12 @@
+c:\users\dudek\source\repos\paradygmaty5\paradygmaty5\bin\Debug\paradygmaty5.exe
+c:\users\dudek\source\repos\paradygmaty5\paradygmaty5\bin\Debug\paradygmaty5.pdb
+c:\users\dudek\source\repos\paradygmaty5\paradygmaty5\obj\Debug\paradygmaty5.csprojResolveAssemblyReference.cache
+c:\users\dudek\source\repos\paradygmaty5\paradygmaty5\obj\Debug\paradygmaty5.csproj.CoreCompileInputs.cache
+c:\users\dudek\source\repos\paradygmaty5\paradygmaty5\obj\Debug\paradygmaty5.exe
+c:\users\dudek\source\repos\paradygmaty5\paradygmaty5\obj\Debug\paradygmaty5.pdb
+C:\Users\arutk\Documents\Informatyka\II rok - II semestr\Paradygmaty\Laby\lab5\paradygmaty5\paradygmaty5\bin\Debug\paradygmaty5.exe
+C:\Users\arutk\Documents\Informatyka\II rok - II semestr\Paradygmaty\Laby\lab5\paradygmaty5\paradygmaty5\bin\Debug\paradygmaty5.pdb
+C:\Users\arutk\Documents\Informatyka\II rok - II semestr\Paradygmaty\Laby\lab5\paradygmaty5\paradygmaty5\obj\Debug\paradygmaty5.csprojAssemblyReference.cache
+C:\Users\arutk\Documents\Informatyka\II rok - II semestr\Paradygmaty\Laby\lab5\paradygmaty5\paradygmaty5\obj\Debug\paradygmaty5.csproj.CoreCompileInputs.cache
+C:\Users\arutk\Documents\Informatyka\II rok - II semestr\Paradygmaty\Laby\lab5\paradygmaty5\paradygmaty5\obj\Debug\paradygmaty5.exe
+C:\Users\arutk\Documents\Informatyka\II rok - II semestr\Paradygmaty\Laby\lab5\paradygmaty5\paradygmaty5\obj\Debug\paradygmaty5.pdb
